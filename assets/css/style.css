@@ -1,0 +1,36 @@
+body {
+    background-color: #dddddd;
+}
+
+
+.name {
+	background-color: #4aaaa5;
+	padding: 20px;
+	width: 20%;
+	color: #ffffff;
+}
+.nav {
+	background-color: #ffffff;
+	color: #777777;
+}
+.aboutMe {
+	color: #4aaaa5;
+	background-color: #ffffff; 
+	height: 350px;
+	width: 650px;
+	border: 1px solid grey;
+
+    
+}
+h2 {
+	color: #4aaaa5;
+	background-color: #ffffff; 
+	width: 270px;
+	height: 175px;
+}
+.footer {
+	color: #ffffff;
+	background-color: #666666;
+	padding: 20px;
+	text-align: center;
+}
