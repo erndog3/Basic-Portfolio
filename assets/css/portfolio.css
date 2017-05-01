@@ -3,8 +3,6 @@ body {
     background-color: #dddddd;
 }
 
-
-
 #masthead {
 	background-color: #ffffff;
     padding: 20px;
@@ -15,8 +13,6 @@ body {
     left: 0;
     width: 100%;
 }
-
-
 
 #logo {
 	background-color: #4aaaa5;
@@ -30,8 +26,6 @@ body {
 	margin-top: 87px;
 }
 
-
-
 .navlinks {
 	float: right;
 	background-color: #ffffff;
@@ -39,15 +33,10 @@ body {
 	padding-top: 11px;
 	margin-right: 100px;
 	top: 0;
-
 }
-
-
 .container {
 	margin-left: 140px;
 }
-
-
 a {
 	display: inline;
 	background-color: #ffffff; 
@@ -55,21 +44,17 @@ a {
 	color: #dddddd;
 }
 
-
 .mainsection {
 	width: 695px;
     margin-top: 140px;
     background-color: #ffffff;
 }
 
-
-
 .mainsection::after {
 	clear: both;
 	content: '';
 	display: block;
 }
-
 
 
 h1 {
@@ -79,16 +64,12 @@ h1 {
 	padding-left: 20px;
 	position: relative;
 	float: left;
+
 }
-
-
 #image1 {
 	float: left;
 	margin-right: 25px;
 }
-
-
-
 
 p {
 	float: left;
@@ -110,16 +91,25 @@ p {
 	float: right;
 	margin-top: -389px;
 	margin-right: 200px;
+
 }
 
-
+hr.style1 {
+	border-top: 2px solid #dddddd;
+	align-content: auto 0;
+	width: 60%;
+	padding-bottom: 5px;
 }
 
 .icons {
 	position: absolute;
 	margin-left: 55px;
+	
 }
-
+.content {
+  flex: 1;
+  padding: 20px;
+ }
  
 .footer {
 	clear: both;
